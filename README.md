@@ -18,7 +18,7 @@ The project includes several showcases of GPT-3's capabilities, demonstrating it
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GPT3-Landing-Page.git
+   git clone https://github.com/spoonmouse/gpt3-website.git
 
 2. Navigate to the project directory:
    ```bash
